@@ -4,6 +4,8 @@ Panel Speakers uses thin wooden radiating faces to spread musical stems through 
 
 ## Original geometry
 
+The [editable Rhino source](cad.md) retains the saved design revision and its original studies. The prototype recording remains the placement reference for the achieved build.
+
 Two integral drilled wooden tabs extend from one short end of the shallow beech frame. Black loops through those holes carry the suspension. That tabbed end points up when hanging; invert the whole speaker and the same two tabs become its feet. The opposite short end is flush. The radiating face is French-polished birch plywood.
 
 ## Exciters

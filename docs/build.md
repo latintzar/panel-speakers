@@ -24,4 +24,4 @@ The achieved panels were hand French-polished. The original record describes rou
 
 The panels played individual stems across a multichannel system at the event. Later recordings show a pair used in a bedroom. A foam-layer experiment is retained as a qualitative listening/build observation.
 
-The next technical revision can add the measured geometry, wiring drawing, controlled response measurements and mounting/stand tests beside this record. The original working build and the later concept refinement remain separately documented.
+The [original Rhino model](cad.md) records the saved panel geometry. The next technical records can add as-built measurements, a wiring drawing, controlled response measurements and mounting/stand tests. The original working build and the later concept refinement remain separately documented.

@@ -13,6 +13,12 @@
 - [Bedroom recording](https://atelierneyra.com/hardware/media/ps04.mp4)
 - [Bedroom installation photograph](https://atelierneyra.com/hardware/media/ps_h_wall.jpg)
 
+## Original design source
+
+- [Rhino model and revision guide](cad.md)
+- [Native CAD reference render](../visualisation/native-cad-rear.webp)
+- [Editable Blender view](../visualisation/native-cad-rear.blend)
+
 ## Construction
 
 - [Parts and exciters](https://atelierneyra.com/hardware/media/ps_b_exciters_pkg.jpg)

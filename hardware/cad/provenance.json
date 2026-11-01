@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "source_original_sha256": "3b9fb31e01d2f02f9587de938988c1103ebc5b80bb3f843ac2dc64c7d4bffefe",
+  "public_file": "hardware/cad/AA-Grad-Show-Speaker.3dm",
+  "public_sha256": "61fa37108e4c4ba533cbb955781d68569fbd48ffd966ac9c7be181eeba61322d",
+  "public_bytes": 3009489,
+  "archive_version": 80,
+  "units": "millimetres",
+  "objects": 164,
+  "object_attributes_identical": true,
+  "geometry_verified_unchanged": true,
+  "objects_with_cached_meshes_identical": 100,
+  "primitive_serialisation_normalised_objects": [
+    29,
+    30,
+    31,
+    32
+  ],
+  "normalised_geometry_verification": "Underlying NURBS surface encodings, edges and vertices match exactly; every saved mesh encoding matches exactly.",
+  "model_tables_preserved": {
+    "layers": 8,
+    "groups": 18,
+    "linetypes": 6,
+    "dimension_styles": 4,
+    "saved_views": 4
+  },
+  "public_author_credit": "Peter Neyra",
+  "document_user_strings": 0,
+  "object_user_strings": 0,
+  "embedded_files": 0,
+  "bitmaps": 0,
+  "private_render_resource_paths_removed": 4,
+  "metadata_change": "One external-render environment and its renderer user-data block were removed using the native OpenNURBS SDK. Model geometry, attributes, IDs, design tables, saved views and modelling tolerances were retained.",
+  "original_private_source_retained": true,
+  "verification_tool": "rhino3dm8.35.0; native OpenNURBS8.x metadata writer",
+  "limit": "This records saved design geometry, not acoustic performance or a dimensional survey of the built installation.",
+  "metadata_writer_source": "https://github.com/mcneel/opennurbs/tree/eb92af3ba1806b0a34a99aba0d3bda83e3d46083"
+}
