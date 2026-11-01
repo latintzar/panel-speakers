@@ -2,9 +2,9 @@
 
 Panel Speakers is a handmade four-channel DML speaker system for spatial DJ sets and home listening.
 
-[Website](https://atelierneyra.com/hardware/panel-speakers) · [Concept pack](https://atelierneyra.com/hardware/media/panel-concept-20261101/panel-speakers-concept-pack.zip) · [Build record](docs/build.md)
+[Website](https://atelierneyra.com/hardware/panel-speakers) · [Concept pack](https://atelierneyra.com/hardware/media/panel-concept-v3-20261101/panel-speakers-concept-pack.zip) · [Build record](docs/build.md)
 
-![Panel Speakers club concept](https://atelierneyra.com/hardware/media/panel-concept-20261101/club.webp)
+![Panel Speakers club concept](https://atelierneyra.com/hardware/media/panel-concept-v3-20261101/club.webp)
 
 *Concept visualisation. The working installation is shown in the [original recordings](docs/evidence.md).*
 
@@ -17,7 +17,7 @@ I built and French-polished four plywood panels for the Architectural Associatio
 - A custom MainStage patch and a Denon receiver routing stems to separate speakers.
 - Original club, bedroom and build recordings, linked in the evidence record.
 
-This repository contains the recorded BOM, signal chain, build process and design decisions. The refined walnut finish and centre-back stand are developed in the [concept record](docs/concept.md).
+This repository contains the recorded BOM, signal chain, build process and design decisions. The original French-polished birch design and the proposed centre-back stand are documented in the [concept record](docs/concept.md).
 
 ## Explore the work
 

@@ -10,7 +10,7 @@ The installation separates instrument stems spatially. People move through the r
 
 ## Visible material
 
-The achieved prototype uses hand-finished wood rather than a conventional enclosure and grille. Original build photographs preserve the birch, frame, exciters and finish tests.
+The achieved prototype uses hand-finished wood as its radiating surface and visible finish. Original build photographs preserve the birch, frame, exciters and finish tests.
 
 ## Club and home
 
@@ -18,4 +18,8 @@ The prototype was used at the club event and later in a bedroom. The concept pac
 
 ## Shared supports
 
-The source design has extended corner tabs. The current concept refines them into precise suspension/resting points, with a centre-back stand and isolated pads. The stand and refined finish are concept work; the original functioning prototype has its own evidence.
+The original design has two extended wooden tabs on the same short end. In the apartment concept, a new centre-back stand and isolated pads support the inverted panel. The stand is concept work; the functioning hanging prototype has its own evidence.
+
+## Suspension geometry
+
+The original two wooden tabs are both on the same short end. They carry the black suspension loops when up and become the feet when the entire panel is inverted. The concept preserves the original frame and radiating-face proportions. The rear exciter layout follows the installed footage.
