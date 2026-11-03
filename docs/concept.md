@@ -14,10 +14,10 @@ The installed rear view is the placement reference: upper-left and lower-right, 
 
 ## Contexts
 
-The club installation and later bedroom installation were physically achieved and are shown in the original [evidence](evidence.md). The bedroom concept develops that same domestic use. The apartment image adds a proposed centre-back support with acoustic isolation, allowing an inverted panel to lean on its original tabs.
+The club and bedroom installations were physically achieved and are shown in the original [evidence](evidence.md). The home-listening proposal adds a centre-back support with acoustic isolation, allowing an inverted panel to lean on its original tabs.
 
 ## Concept pack
 
-[Four full-resolution concept images and exact prompts](https://atelierneyra.com/hardware/media/panel-concept-v3-20261101/panel-speakers-concept-pack.zip). These are fresh concept visualisations. Their source reference hashes, submitted prompts and change record are included; generation itself is stochastic.
+[Download concept pack](https://atelierneyra.com/hardware/media/panel-concept-v4-20261103/panel-speakers-concept-pack.zip).
 
 [Original design and prototype](https://atelierneyra.com/hardware/panel-speakers).

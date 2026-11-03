@@ -2,11 +2,11 @@
 
 Panel Speakers is a handmade four-channel DML speaker system for spatial DJ sets and home listening.
 
-[Website](https://atelierneyra.com/hardware/panel-speakers) · [Concept pack](https://atelierneyra.com/hardware/media/panel-concept-v3-20261101/panel-speakers-concept-pack.zip) · [Rhino CAD](hardware/cad/AA-Grad-Show-Speaker.3dm) · [Build record](docs/build.md)
+[Website](https://atelierneyra.com/hardware/panel-speakers) · [Concept pack](https://atelierneyra.com/hardware/media/panel-concept-v4-20261103/panel-speakers-concept-pack.zip) · [Rhino CAD](hardware/cad/AA-Grad-Show-Speaker.3dm) · [Build record](docs/build.md)
 
-![Panel Speakers club concept](https://atelierneyra.com/hardware/media/panel-concept-v3-20261101/club.webp)
+![Panel Speakers club concept](https://atelierneyra.com/hardware/media/panel-concept-v4-20261103/club.webp)
 
-*Concept visualisation. The working installation is shown in the [original recordings](docs/evidence.md).*
+*Concept.*
 
 I built and French-polished four plywood panels for the Architectural Association’s club night at Egg London, mounted two exciters to each panel, and routed separated musical stems through a custom MainStage setup and a multichannel receiver. People could walk between the panels and hear the instruments spread through the room.
 
